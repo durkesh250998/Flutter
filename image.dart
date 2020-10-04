@@ -26,4 +26,4 @@ class _MyAppState extends State<MyApp> {
         )));
   }
 }
-// DONT FORGET TO ADD IMAGE PATH TO pubspec.yaml in assets
+// DONT FORGET TO ADD IMAGE PATH TO assets in pubspec.yaml
